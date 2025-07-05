@@ -1,2 +1,11 @@
 # CLG
-This repo is my personal logbook to stay accountable and consistent. It includes structured notes, solved problems, mini-projects, and hands-on code from my BTech journey — with focus on mastering OOP, DSA, and core CS.  I commit daily to maintain my GitHub streak and grow 1% every day. 🧠⚡
+
+This repo is a personal logbook to track my daily growth in:
+- Object Oriented Programming (C++)
+- Data Structures and Algorithms
+- Core Computer Science subjects
+- Competitive Programming
+
+🟢 I commit daily to maintain my GitHub streak and consistency.
+
+📅 Started: July 2025  
