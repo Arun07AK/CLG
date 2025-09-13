@@ -19,6 +19,11 @@ class Solution {
         }
         if(head->data==key)
         {
+            if(head->next == head) 
+            {  // Single node case
+                delete head;
+                return nullptr;  // List is now empty
+            }
             Node* p=head;
             while(p->next!=head)
             {
